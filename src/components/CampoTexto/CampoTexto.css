@@ -20,4 +20,5 @@
     color: #A4A4A4;
     outline-color: #6278F7;
     font-size: 16px;
+    box-sizing: border-box;
 }
